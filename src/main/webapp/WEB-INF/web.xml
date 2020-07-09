@@ -35,7 +35,7 @@
 
     <servlet-mapping>
         <servlet-name>WebProject</servlet-name>
-        <url-pattern>/file</url-pattern>
+        <url-pattern>/</url-pattern>
     </servlet-mapping>
 
 </web-app>
